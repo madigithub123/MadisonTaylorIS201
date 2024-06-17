@@ -1,0 +1,22 @@
+
+p {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: bold;
+    font-style: italic;
+    color: darkmagenta;
+}
+li {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: darkslateblue;
+}
+.bg {
+    background-color: rgb(25, 101, 168);
+}
+a {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: white;
+}
+ul {
+    font-family: 'Times New Roman', Times, serif;
+    color: cadetblue;
+}
